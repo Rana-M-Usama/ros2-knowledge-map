@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
+    "d3": "^7.9.0",
+    "v-network-graph": "^0.9.18",
     "vue": "^3.2.13"
   },
   "devDependencies": {
